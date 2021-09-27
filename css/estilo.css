@@ -1,0 +1,86 @@
+body{
+	font-family: Franklin Gothic Medium;
+	font-size: 18px;
+	color: #b2bec3;
+	background-color: #636e72;
+}
+
+h1{
+	font-family: Avantgarde;
+	font-size: 38px;
+	color: #b2bec3;
+}
+h2{
+	font-family: Trebuchet;
+	font-size: 38px;
+	color: #b2bec3;
+}
+
+h3{
+	font-family: Gill Sans;
+	font-size: 38px;
+	color: #b2bec3;
+}
+
+h4{
+	font-family: Noto Sans;
+	font-size: 38px;
+	color: #b2bec3;
+}
+
+nav ul{
+	font-family: Palatino;
+	font-size: 18px;
+	color: #b2bec3;
+	list-style: none;
+	padding: 0px;
+}
+
+nav ul li{
+	font-family: URW Palladio L;
+	font-size: 18px;
+	color: #b2bec3;
+	display: inline;
+	padding: 10px;
+}
+
+nav ul li a{
+	font-family: Bookman;
+	font-size: 20px;
+	color: #b2bec3;
+	text-decoration: none;
+}
+
+nav ul li a:hover{
+	font-family: URW Bookman L;
+	font-size: 18px;
+	color: #b2bec3;
+	text-decoration: underline;
+}
+
+.form{
+	font-family: New Century;
+	font-size: 20px;
+	margin-top: 50px ;
+	margin-bottom: 50px;
+	margin-left: 10px;
+	color: #b2bec3;
+}
+
+label{
+	font-family: American Typewriter;
+	font-size: 18px;
+	color: #b2bec3;
+}
+
+.inputs{
+	font-family: Courier;
+	font-size: 18px;
+	width: 235px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #95a5a6;
+	border-radius: 5px;
+	padding: 5px;
+	color: #b2bec3;
+}
